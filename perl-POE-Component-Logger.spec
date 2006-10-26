@@ -9,7 +9,7 @@ Summary:	POE::Component::Logger - a POE logging class
 Summary(pl):	POE::Component::Logger - klasa loguj±ca dla POE
 Name:		perl-POE-Component-Logger
 Version:	1.00
-Release:	0.1
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
