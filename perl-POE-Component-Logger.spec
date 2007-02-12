@@ -6,7 +6,7 @@
 %define		pdir	POE
 %define		pnam	Component-Logger
 Summary:	POE::Component::Logger - a POE logging class
-Summary(pl):	POE::Component::Logger - klasa loguj±ca dla POE
+Summary(pl.UTF-8):   POE::Component::Logger - klasa logujÄ…ca dla POE
 Name:		perl-POE-Component-Logger
 Version:	1.00
 Release:	1
@@ -29,9 +29,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 A highly flexible logger component for POE that uses Log::Dispatch and
 Log::Dispatch::Config for ultimate flexibility and power.
 
-%description -l pl
-Bardzo elastyczny komponent loguj±cy dla POE, u¿ywaj±cy Log::Dispatch
-i Log::Dispatch::Config dla maksymalnej elastyczno¶ci i mocy.
+%description -l pl.UTF-8
+Bardzo elastyczny komponent logujÄ…cy dla POE, uÅ¼ywajÄ…cy Log::Dispatch
+i Log::Dispatch::Config dla maksymalnej elastycznoÅ›ci i mocy.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
