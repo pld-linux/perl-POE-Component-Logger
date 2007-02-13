@@ -6,7 +6,7 @@
 %define		pdir	POE
 %define		pnam	Component-Logger
 Summary:	POE::Component::Logger - a POE logging class
-Summary(pl.UTF-8):   POE::Component::Logger - klasa logująca dla POE
+Summary(pl.UTF-8):	POE::Component::Logger - klasa logująca dla POE
 Name:		perl-POE-Component-Logger
 Version:	1.00
 Release:	1
